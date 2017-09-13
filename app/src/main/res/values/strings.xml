@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesseractTest</string>
+    <string name="image_dialog_description">Image Preview</string>
+</resources>
